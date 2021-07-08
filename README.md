@@ -7,6 +7,4 @@ Setting up your React-Native App-
 5)Type 'expo start'
 Your app will run on your mobile phone!
 
-Starting with react native-
-1)Learn Javascript and XML
-2)Once done 
+
