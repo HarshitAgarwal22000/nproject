@@ -1,6 +1,6 @@
-Setting up your React-Native App-
-//Previous knowledge of JavaScript and XML is a must
-1)Download Node.js and a Code Editor preferably VS Code
+# Setting up your React-Native App-
+- Previous knowledge of JavaScript and XML is a must
+- Download Node.js and a Code Editor preferably VS Code
 2)Open cmd and install Expo by typing 'npm -install -g expo-cli'
 3)Type 'expo init <Projectname>'
 4)After this type 'cd <Projectname>'
