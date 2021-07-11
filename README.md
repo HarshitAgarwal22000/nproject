@@ -6,5 +6,8 @@
 - After this type 'cd <Projectname>'
 - Type 'expo start'
 - Your app will run on your mobile phone!
-
+# Imp- 
+- https://www.codecademy.com/learn/react-101
+- https://docs.expo.io/
+  
 
